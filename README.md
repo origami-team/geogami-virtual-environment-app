@@ -15,8 +15,7 @@ This is a virtual environment created using Unity engine. It was created to be u
 ## How to Play a Game
 
   ###  Run a virtual game
-
-  1. Download the VR world app ([Releases](https://github.com/origami-team/geogami-virtual-environment/releases/latest)).
+  1. Download the VR world app ([Releases](https://github.com/origami-team/geogami-virtual-environment-app/releases/latest)).
   2. Run your virtual game in GeoGami. For starting the game, you will be requested to create a 5-digit code.
   3. Run the corresponding VR world app and type in your 5-digit code. If the virtual World is not running:
 
